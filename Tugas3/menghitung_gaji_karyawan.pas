@@ -1,3 +1,6 @@
+{ NAMA: TAOPIK HIDAYAT }
+{ NPM: 20.14.1.0048 }
+{ Nama Program: menghitung_gaji_karyawan }
 program menghitung_gaji_karyawan;
 uses crt;
 
