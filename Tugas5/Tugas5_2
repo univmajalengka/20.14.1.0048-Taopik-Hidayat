@@ -1,6 +1,6 @@
 {Nama             : Taopik Hidayat    }
 {NPM              : 20.14.1.0048   }
-{Nama Program     : fungsi_bilangan_ganjil_genap.pas  }
+{Nama Program     : aritmatika.pas  }
 
 program aritmatika;
 uses crt;
